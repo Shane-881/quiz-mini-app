@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_notes"
+        android:title="@string/notes_tab"
+        android:icon="@android:drawable/ic_menu_edit" />
+    <item
+        android:id="@+id/nav_quiz"
+        android:title="@string/quiz_tab"
+        android:icon="@android:drawable/ic_menu_help" />
+    <item
+        android:id="@+id/nav_reference"
+        android:title="@string/reference_tab"
+        android:icon="@android:drawable/ic_menu_info_details" />
+    <item
+        android:id="@+id/nav_goals"
+        android:title="@string/goals_tab"
+        android:icon="@android:drawable/ic_menu_agenda" />
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/profile_tab"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+</menu>

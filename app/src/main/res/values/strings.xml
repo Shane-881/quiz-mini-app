@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Study Companion</string>
+    <string name="notes_tab">Notes</string>
+    <string name="quiz_tab">Quiz</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Content</string>
+    <string name="search_hint">Search notes...</string>
+    
+    <string name="select_subject">Select a Subject</string>
+    <string name="android_basics">Android Basics</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="ai">Artificial Intelligence</string>
+    <string name="cloud_computing">Cloud Computing</string>
+    <string name="networking">Networking</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="submit_answer">Submit</string>
+    <string name="next_question">Next</string>
+    <string name="finish_quiz">Finish</string>
+    <string name="quiz_score_fmt">Score: %d/%d</string>
+    <string name="history_header">History</string>
+    <string name="no_notes">No notes yet. Tap + to add one.</string>
+    
+    <!-- New Features -->
+    <!-- New Features -->
+    <string name="reference_tab">References</string>
+    <string name="goals_tab">Goals</string>
+    <string name="profile_tab">Profile</string>
+    <string name="reference_title">Quick Reference Guide</string>
+    <string name="goals_title">Daily Study Goals</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="goal_hint">Enter a new goal...</string>
+    <string name="profile_name">Shan e Haider</string>
+    <string name="study_stats">Study Stats</string>
+</resources>

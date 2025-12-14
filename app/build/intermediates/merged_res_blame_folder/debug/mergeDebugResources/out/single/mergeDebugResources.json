@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_fragment_quiz.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/fragment_quiz.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_item_history.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_fragment_note_list.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_item_note.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_fragment_note_editor.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/fragment_note_editor.xml"
+    },
+    {
+        "merged": "com.example.studycompanion.app-debug-37:/layout_fragment_quiz_selection.xml.flat",
+        "source": "com.example.studycompanion.app-main-39:/layout/fragment_quiz_selection.xml"
+    }
+]
